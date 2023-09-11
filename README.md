@@ -1,5 +1,5 @@
 # Android-Barcode-Scanner
-Android app use to scan QR Codes\ &amp; Barcode using ScanBot Sdk in Android Studio | Java
+Android app use to scan QR Code&amp;Barcode using ScanBot Sdk in Android Studio | Java
 
 **Tutorial** https://youtu.be/20s3sUpCHNk
 
